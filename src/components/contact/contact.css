@@ -1,0 +1,57 @@
+.contactForm{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 5% 10%;
+    padding: 10px 30px;
+}
+
+.inputField{
+    border: none;
+    border-bottom: 2px solid rgba(155, 154, 154, 0);
+    margin-top: 10px;
+    padding: 12px 10px;
+    transition: 0.2s ease-in-out;
+    outline: none;
+    background-color: #92cfe6;
+    color: #005e6d;
+}
+
+.inputField::placeholder{
+    color: #005e6d;
+}
+
+.inputField:focus{
+    border-bottom: 2px solid rgb(109, 109, 109);
+    border-color: black;
+}
+
+.submitButton{
+    box-shadow: 0px 10px 14px -7px #046270;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+    width: 100px;
+    align-self: center;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.submitButton :hover{
+    background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+
+.submitButton:active{
+    position:relative;
+	top:1px;
+}

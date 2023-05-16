@@ -6,6 +6,11 @@ nav{
     padding: 10px 0px;
 }
 
+nav a{
+    text-decoration: none;
+    color: #111;
+}
+
 
 nav p{
     padding: 10px 40px;

@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #a59b9b;
+    padding: 10px 0px;
+}
+
+
+nav p{
+    padding: 10px 40px;
+    background-color: brown;
+    border-radius: 10px;
+    transition: 0.1s ease-in-out;
+    color: black;
+    text-decoration: none;
+}
+
+nav p:hover{
+    cursor: pointer;
+    background-color: antiquewhite;
+}

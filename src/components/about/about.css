@@ -1,0 +1,19 @@
+.aboutSection{
+    padding: 0px 10px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.aboutSectionContent{
+display: flex;
+flex-direction: row;
+gap: 30px;
+padding: 0px 30px;
+margin-bottom: 20px;
+}
+
+.aboutSectionContent>img{
+    height: 40vh;
+    border-radius: 18px;
+}

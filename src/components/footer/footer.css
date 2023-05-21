@@ -1,8 +1,26 @@
 footer{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     text-align: center;
     font-weight: bold;
     background-color: black;
     color: white;
+    align-items: center;
+    gap: 20px;
+    
+}
+
+.footerContainer{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    gap: 10px;
+}
+
+.footerLink{
+    color: white;
+    height: 40px;
+    object-fit: coverAS;
+
 }

@@ -1,6 +1,68 @@
-# Getting Started with Create React App
+# ParthNewPortfolio !["badge"](https://img.shields.io/badge/license-MIT-green)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+
+My motivation was to build this portfolio page very responsive and attractive, which showcase and highlights all my work skills. 
+
+I build this project to seek an responsible and challenging career as a Developer which provides an opportunity to unveil my skills and continously develop them while at work.
+
+My portfolio page contains information about me, showcase my work projects and skills which help me building a strong portfolio. Furthermore, it contains different types of contact information to reach me out.
+
+## Table of contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshot](#screenshot)
+- [Contribution](#contribution)
+- [Questions](#questions)
+- [License](#license)
+
+## Installation
+
+For installation, clone the GitHub repository [ParthNewPortfolio](https://github.com/Parth0415/parthnewportfolio).
+Then go to the file location, open file with the help of terminal:
+
+ To install dependencies, run the following command:
+```
+npm i
+```
+ 
+ After that run the following command:
+```
+node index.js
+```
+ 
+ At last run the following command:
+```
+npm run start
+```
+
+## Usage
+
+- To start using the application make sure you deployed the application []().
+
+
+
+## Screenshot
+
+![Challenge 20](./src/components/assets/images/screenshot.png?raw=true "Challenge 20")
+
+
+## Contribution
+
+This portfolio was created by Parth Mali. If any questions please feel free to contact me by email .
+
+## Questions
+
+My Email:
+[parthmali1597@gmail.com](mailto:parthmali1597@gmail.com)
+
+Github:
+[Parth0415](https://github.com/Parth0415)
+
+## License
+
+MIT
 
 ## Available Scripts
 

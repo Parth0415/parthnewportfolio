@@ -8,7 +8,9 @@ footer{
     color: white;
     align-items: center;
     gap: 20px;
-    
+    align-self: self-end;
+    width: 100vw;
+    margin-top: 10px;
 }
 
 .footerContainer{

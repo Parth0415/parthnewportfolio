@@ -11,7 +11,7 @@ import web from "../assets/images/web.png";
 function Portfolio() {
   return (
     <div>
-      <h1>Projects</h1>
+      <h1 className="heading" >Projects</h1>
       <div className="projectContainer">
         <ProjectComponent
           title="Project 1"

@@ -5,7 +5,7 @@ import "./about.css";
 function About() {
   return (
     <div className="aboutSection">
-      <h1>About</h1>
+      <h1 className="heading">About</h1>
       <div className="aboutSectionContent">
         <img src={me} alt="me" />
         <div>

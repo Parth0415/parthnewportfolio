@@ -5,7 +5,9 @@
     margin: 5% 10%;
     padding: 10px 30px;
 }
-
+.heading{
+    margin-left: 30px;
+}
 .inputField{
     border: none;
     border-bottom: 2px solid rgba(155, 154, 154, 0);
@@ -13,12 +15,12 @@
     padding: 12px 10px;
     transition: 0.2s ease-in-out;
     outline: none;
-    background-color: #92cfe6;
-    color: #005e6d;
+    background-color: rgb(103, 118, 145);
+    color: #a5e3ec;
 }
 
 .inputField::placeholder{
-    color: #005e6d;
+    color: #8de5f3;
 }
 
 .inputField:focus{

@@ -13,6 +13,15 @@
   }
 }
 
+.customBody{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-content: space-between;
+  background-repeat: repeat;
+  background-size: 100%;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

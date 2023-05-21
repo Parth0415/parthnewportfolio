@@ -4,6 +4,9 @@
   justify-content: center;
   gap: 50px;
 }
+.heading{
+  margin-left: 30px;
+}
 .projectTile {
   background-color: beige;
   width: 320px;
@@ -46,6 +49,7 @@
   text-transform: uppercase;
   font-size: 40px;
   font-weight: 500;
+ 
 }
 .projectLink{
   width: 40px;

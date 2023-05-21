@@ -17,3 +17,26 @@ margin-bottom: 20px;
     height: 40vh;
     border-radius: 18px;
 }
+
+@media only screen and (max-width: 768px) {
+    .aboutSectionContent>img{
+        width: 30vw;
+        height: 60vh;
+        border-radius: 18px;
+        margin-top: 20px;
+    }
+  }
+  @media only screen and (max-width: 425px) {
+    .aboutSectionContent{
+       align-items: center;
+        display: flex;
+        flex-direction: column;
+    
+    }
+    .aboutSectionContent>img{
+        width: 35vw;
+        height: 40vh;
+        border-radius: 18px;
+        margin-top: 20px;
+    }
+ }

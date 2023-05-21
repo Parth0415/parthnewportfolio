@@ -25,3 +25,9 @@ nav p:hover{
     cursor: pointer;
     background-color: antiquewhite;
 }
+
+@media only screen and (max-width: 425px) {
+   nav p{
+    padding: 5px 10px;
+   }
+}

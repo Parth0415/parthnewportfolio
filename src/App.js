@@ -12,8 +12,8 @@ import Portfolio from './components/portfolio/portfolio';
 
 function App() {
   return (
-    <div style={{backgroundImage: `url(${Background})`}} className='customBody'>
-    
+    <body>
+
       <Header></Header>
       
       <Routes>
@@ -23,8 +23,8 @@ function App() {
         <Route path="/portfolio" Component={Portfolio}></Route>
      </Routes>
       <Footer></Footer>
-      
-    </div>
+
+    </body>
   );
 }
 

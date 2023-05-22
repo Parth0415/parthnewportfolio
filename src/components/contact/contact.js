@@ -18,7 +18,12 @@ class Contact extends Component {
     if (this.state.fieldEmpty.email) {
       this.errors.emailError = "Email cannot be empty";
     } else {
-      this.errors.emailError = "";
+      if (!this.state.emailValid) {
+        // console.log(this.state.emailValid)
+        this.errors.emailError = "Email not valid";
+      } else {
+        this.errors.emailError = "";
+      }
     }
     if (this.state.fieldEmpty.message) {
       this.errors.msgError = "Message cannot be empty";
@@ -29,12 +34,6 @@ class Contact extends Component {
       this.errors.nameError = "Name cannot be empty";
     } else {
       this.errors.nameError = "";
-    }
-    if (!this.state.emailValid) {
-      // console.log(this.state.emailValid)
-      this.errors.emailError = "Email not valid";
-    } else {
-      this.errors.emailError = "";
     }
   }
 
@@ -77,7 +76,7 @@ class Contact extends Component {
 
   render() {
     return (
-      <div> 
+      <div>
         <h1 className="heading">Contact me</h1>
         <form className="contactForm">
           <input

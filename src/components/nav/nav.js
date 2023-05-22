@@ -1,7 +1,7 @@
 import React from "react";
 import './nav.css';
 import { Link } from "react-router-dom";
-import resume from "../assets/resources/Resume"
+import resume from "../assets/resources/Resume.pdf"
 
 function Nav(){
     return(

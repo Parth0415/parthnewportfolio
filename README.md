@@ -39,8 +39,7 @@ npm run start
 
 ## Usage
 
-- To start using the application make sure you deployed the application []().
-
+- To start using the application make sure you deployed the application [ParthNewPortfolio]( https://parth0415.github.io/parthnewportfolio/).
 
 
 ## Screenshot

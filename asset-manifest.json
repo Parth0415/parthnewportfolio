@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/parthnewportfolio/static/css/main.98019799.css",
-    "main.js": "/parthnewportfolio/static/js/main.cefbeab7.js",
+    "main.js": "/parthnewportfolio/static/js/main.a8b5f51e.js",
     "static/media/project4.png": "/parthnewportfolio/static/media/project4.294a229ac58bd1c77fb2.png",
     "static/media/project1.png": "/parthnewportfolio/static/media/project1.8d3fa9be3e7b8405ce95.png",
     "static/media/me.jpg": "/parthnewportfolio/static/media/me.11eeb10c1ff80cdf140e.jpg",
     "static/media/project2.png": "/parthnewportfolio/static/media/project2.833c9b9b2d607820b5a1.png",
+    "static/media/project7.png": "/parthnewportfolio/static/media/project7.2f9d601dcd42c7507b2c.png",
     "static/media/project5.png": "/parthnewportfolio/static/media/project5.1188285f7a385ccbd875.png",
     "static/media/Resume.pdf": "/parthnewportfolio/static/media/Resume.2f400f444a844ce13e7b.pdf",
     "static/media/project3.png": "/parthnewportfolio/static/media/project3.3a2b24b4473c98e8daa3.png",
@@ -13,10 +14,10 @@
     "static/media/project6.png": "/parthnewportfolio/static/media/project6.98b261124c646ff34917.png",
     "index.html": "/parthnewportfolio/index.html",
     "main.98019799.css.map": "/parthnewportfolio/static/css/main.98019799.css.map",
-    "main.cefbeab7.js.map": "/parthnewportfolio/static/js/main.cefbeab7.js.map"
+    "main.a8b5f51e.js.map": "/parthnewportfolio/static/js/main.a8b5f51e.js.map"
   },
   "entrypoints": [
     "static/css/main.98019799.css",
-    "static/js/main.cefbeab7.js"
+    "static/js/main.a8b5f51e.js"
   ]
 }

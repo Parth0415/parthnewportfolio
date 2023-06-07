@@ -6,6 +6,7 @@ import project3 from "../assets/images/project3.png";
 import project4 from "../assets/images/project4.png";
 import project5 from "../assets/images/project5.png";
 import project6 from "../assets/images/project6.png";
+import project7 from "../assets/images/project7.png";
 import github from "../assets/images/github.png";
 import web from "../assets/images/web.png";
 function Portfolio() {
@@ -53,6 +54,13 @@ function Portfolio() {
           img={project6}
           github ="https://github.com/Parth0415/Secure-Password-Generator"
           link="https://parth0415.github.io/Secure-Password-Generator/"
+          tech="Javascript, HTML, CSS"
+        />
+         <ProjectComponent
+          title="Recall Rumble"
+          img={project7}
+          github ="https://github.com/Group1Project3/Recall-Rumble"
+          link="https://recallrumble.herokuapp.com/"
           tech="Javascript, HTML, CSS"
         />
       </div>

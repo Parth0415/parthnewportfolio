@@ -57,7 +57,7 @@ function Portfolio() {
           tech="Javascript, HTML, CSS"
         />
          <ProjectComponent
-          title="Recall Rumble"
+          title="Project 7"
           img={project7}
           github ="https://github.com/Group1Project3/Recall-Rumble"
           link="https://recallrumble.herokuapp.com/"
